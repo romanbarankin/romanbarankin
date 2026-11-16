@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, я Роман Баранкин 👋
 
-<!--
-**romanbarankin/romanbarankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю продукты на стыке AI, видео и автоматизации: Telegram-боты, браузерные игры и команды AI-агентов, которые сами планируют, проверяют и продвигают.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Проект | Что это |
+|---|---|
+| 🎨 **AI Canvas Studio** | браузерный холст для AI-фильмов: от идеи до готового ролика цепочкой блоков (промпт → картинка → видео → озвучка), с режимом «автопилот-режиссёр» |
+| 🎬 **AI Video Studio** | Telegram-бот: документальные ролики и мультики с помощью нейросетей, оплата внутри бота |
+| 🕵️ **«Допрос»** | браузерная игра-детектив, где подозреваемого играет AI |
+| 🐝 **РОЙ-300** | команда AI-агентов: пульт управления, планировщик задач, веб-панель и публикация мини-сайтов |
+| 🧪 **ROY QA 300** | облачный браузер, который проверяет сайты и игры на десктопе и телефоне и выдаёт отчёт с оценкой |
+
+## Технологии
+
+`Node.js` · `TypeScript` · `Bun` · `PostgreSQL` · `Playwright` · `Telegram Bot API` · `OpenRouter` · `Railway` · `GitHub Actions`
