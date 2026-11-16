@@ -15,3 +15,9 @@
 ## Технологии
 
 `Node.js` · `TypeScript` · `Bun` · `PostgreSQL` · `Playwright` · `Telegram Bot API` · `OpenRouter` · `Railway` · `GitHub Actions`
+
+## Где меня найти
+
+[![YouTube](https://img.shields.io/badge/YouTube-@barankin--ai-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@barankin-ai)
+[![Instagram](https://img.shields.io/badge/Instagram-@barankin.ai-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/barankin.ai/)
+[![Telegram](https://img.shields.io/badge/Telegram-Seedance_Insider-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/seedanceinsider)
